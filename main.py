@@ -1,3 +1,5 @@
+#intro
+print("https://github.com/vikingthereal/Viking-Open-Source-Agent-Hacker-Squad")
 #version
 version ="3.5 BETA"
 #infos
