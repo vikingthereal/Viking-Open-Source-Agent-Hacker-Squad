@@ -1,5 +1,3 @@
-#intro
-print("https://github.com/vikingthereal/Viking-Open-Source-Agent-Hacker-Squad")
 #version
 version ="3.5 BETA"
 #infos
@@ -16,7 +14,8 @@ import sys
 from time import sleep
 import os
 from bs4 import BeautifulSoup
-
+#intro
+print("https://github.com/vikingthereal/Viking-Open-Source-Agent-Hacker-Squad")
 #def
 from sys import exit
 import requests
